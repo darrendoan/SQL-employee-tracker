@@ -81,7 +81,7 @@ node server.js
 - Upon starting the application, follow the prompts to perform various operations on the employee data.
 - Select an action from the provided list and follow the prompts to complete the operation.
 - Use the "Exit" option to quit the application.
-You may click this link to see it working.
+You may click this link to see it working: https://app.screencastify.com/v3/watch/YEdNeabpP00ufwcSiv1j 
 
 ## Issues
 A few issues that I've encountered and have not been able to solve yet is the dbConfig not being recognised. Any tips are appreciated. 
